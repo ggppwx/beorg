@@ -1,0 +1,503 @@
+#+TITLE: main panel for org mode 
+#+DESCRIPTION: this file is to track projects, track is NOT the main purpose. organizing is
+#+TODO: READY PROGRESS(!) | COMP
+#+TODO: TODO | DONE
+
+* this is the orgnizer for org mode
+here I will list the main framework of my org documents. 
+- scratch pad  file:scratch.org
+
+* ORG MODE routine
+- prioritize EVERY tasks in agenda view 
+- A: must-do, can't move to any other task if undone.
+  process daily bases 
+
+- B: can be postponed, revisit every week. 
+- C: extra work, revisit every 2 weeks. can be removed from agenda  
+- when to re prioritize
+  - sitting in schedule too long: more than 10
+
+** DONE clean-up org
+   SCHEDULED: <2017-12-19 Tue ++3w>
+   :PROPERTIES:
+   :ID:       B250A2B1-4B98-435A-A65E-9729DF72B162
+   :LAST_REPEAT: [2017-12-03 Sun 19:52]
+   :END:
+   - State "DONE"       from "TODO"       [2017-12-03 Sun 19:52]
+   - State "DONE"       from "TODO"       [2017-10-19 Thu 16:27]
+   - State "DONE"       from "TODO"       [2017-09-06 Wed 13:19]
+   - State "DONE"       from "TODO"       [2017-08-15 Tue 18:14]
+   - State "DONE"       from "TODO"       [2017-07-19 Wed 17:25]
+   - State "DONE"       from "TODO"       [2017-06-13 Tue 13:51]
+   - State "DONE"       from "TODO"       [2017-05-31 Wed 15:14]
+   - State "DONE"       from "TODO"       [2017-05-24 Wed 17:42]
+   - State "DONE"       from "TODO"       [2017-05-02 Tue 18:21]
+   - State "DONE"       from "TODO"       [2017-04-20 Thu 18:09]
+   - State "DONE"       from "TODO"       [2017-04-04 Tue 17:58]
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-10-19 Thu 16:27]
+   :END:
+* project scratch						    :project:
+here are several projects we need to focus on 
+
+** TODO new website like evernote
+   :PROPERTIES:
+   :ID:       DBEC53E6-1EC8-4185-BE77-B0D6AB6AEDE5
+   :END:
+
+
+
+** DONE adding a countdown timmer
+- requirement
+  - portable component
+  - adding event name + dealine. 
+  - progress bar 
+  - integrate with tagging in the future
+** TODO tagging systems for todo
+   :PROPERTIES:
+   :ID:       1BCAD730-FECA-4BD4-9167-043938200082
+   :END:
+   
+
+** PROGRESS  enhance the github personal website
+   :PROPERTIES:
+   :ID:       D8F84E2A-D682-4C62-BDEA-4728EEF22B73
+   :END:
+- [X] better publishing tool, to publish article 
+
+
+** TODO a text processor
+   :PROPERTIES:
+   :ID:       4F116143-301C-4259-A426-416BD44817CB
+   :END:
+- the text processor process the text to find new vocabulary 
+- shanbay api. 
+- analyze the article, get new vocabulary
+
+** PROGRESS online manager enhancement
+   :PROPERTIES:
+   :ID:       0666C450-57A6-48FE-935E-E207957B0F05
+   :END:
+   - State "PROGRESS"   from "READY"      [2017-02-11 Sat 14:20]
+*** COMP generic visualization
+- [X] adding support to leetcode
+- [ ] refactoring code, the code generic 
+- [ ] research ways to adding visualization
+
+*** TODO apply admin theme to website
+    :PROPERTIES:
+    :ID:       387CE341-9FD3-4F06-B3C2-70AE7B1256EA
+    :END:
+
+
+*** TODO adding a editable table
+    :PROPERTIES:
+    :ID:       2C96D5A7-AA5A-4A4D-B593-CEE5993A3616
+    :END:
+https://bootsnipp.com/snippets/d0lAe
+
+
+** emacs toolkit 						      :emacs:
+*** TODO package the toolkit, make it portable
+    :PROPERTIES:
+    :ID:       869D1B7D-BE14-4DAF-863E-929B7FFDE9A2
+    :END:
+
+
+** DONE emacs GTD						      :emacs:
+   :PROPERTIES:
+   :ID:       161ACB31-FE18-4AF1-9873-D73A5F0E938D
+   :END:
+- daily routine [[ORG MODE routine]]
+
+** READY  portfolio tracker
+   :PROPERTIES:
+   :ID:       0C675FCB-501F-4591-BC9A-B44B686A0CDE
+   :END:
+
+
+
+
+
+** TODO huichi wang project phase 1
+   :PROPERTIES:
+   :ID:       9902557B-7D7A-4CDD-A228-39B8CCFA7026
+   :END:
+*** DONE go through the business plan
+*** TODO back-end support
+    :PROPERTIES:
+    :ID:       C98821BC-6F58-4031-9F9A-1FC5869696DA
+    :END:
+* project KTLO
+** TODO smart button enhancement
+   :PROPERTIES:
+   :ID:       C6A20F79-EB9E-4DD3-AAA1-34B854722444
+   :END:
+- [ ] adding comment 
+
+
+
+
+
+
+
+
+* online tutorial
+** TODO coursea
+   :PROPERTIES:
+   :ID:       836FEDA9-1A8D-4A84-A516-47B4267F34C9
+   :END:
+
+
+* READING
+*** design pattern [2/3] 					       :book:
+26 tutorials, 15 min each 
+file:designpattern.org 
+
+**** TODO review design pattern				     :review:
+     :PROPERTIES:
+     :ID:       12D23A71-84AB-468B-AA0C-2A7BFA88E3C9
+     :END:
+     - State "DONE"       from "TODO"       [2017-03-03 Fri 16:49]
+     - State "DONE"       from "TODO"       [2017-03-01 Wed 17:24]
+     - State "DONE"       from "TODO"       [2017-02-01 Wed 17:25]
+     - State "DONE"       from "TODO"       [2016-10-18 Tue 17:16]
+     - State "DONE"       from "TODO"       [2016-07-28 Thu 18:46]
+     - State "DONE"       from "TODO"       [2016-07-06 Wed 19:07]
+     :PROPERTIES:
+     :LAST_REPEAT: [2017-03-03 Fri 16:49]
+     :END:
+
+
+*** javascript design pattern.					       :book:
+**** DONE read javascript design pattern.
+     :PROPERTIES:
+     :ID:       9FDF7AEA-D5FA-480B-933E-2C3B9DCDC137
+     :END:
+     - State "DONE"       from "TODO"       [2017-03-08 Wed 17:24]
+     - State "DONE"       from "TODO"       [2017-03-03 Fri 16:49]
+     - State "DONE"       from "TODO"       [2017-03-01 Wed 17:26]
+     - State "DONE"       from "TODO"       [2016-10-10 Mon 17:22]
+     CLOCK: [2016-10-10 Mon 17:02]--[2016-10-10 Mon 17:22] =>  0:20
+     - State "DONE"       from "TODO"       [2016-08-18 Thu 00:00]
+     - State "DONE"       from "TODO"       [2016-08-16 Tue 22:04]
+     - State "DONE"       from "TODO"       [2016-08-11 Thu 15:32]
+     - State "DONE"       from "TODO"       [2016-08-08 Mon 01:32]
+     - State "DONE"       from "TODO"       [2016-08-02 Tue 10:24]
+     - State "DONE"       from "TODO"       [2016-07-27 Wed 10:49]
+     - State "DONE"       from "TODO"       [2016-07-24 Sun 23:03]
+     :PROPERTIES:
+     :LAST_REPEAT: [2017-03-08 Wed 17:24]
+     :CUSTOM_ID: jsdp
+     :END:
+
+
+
+*** programming pearls [2/3]					       :book:
+8 chapters left 
+file:programming_pearls.org 
+**** TODO programming pearls read 1 chapter
+     :PROPERTIES:
+     :ID:       2FDA3EF5-DB4E-47EC-B408-A8E85B1FEB24
+     :END:
+     - Note taken on [2016-07-11 Mon 18:11] \\
+       this has been delayed for too long.
+     - State "DONE"       from "TODO"       [2016-06-30 Thu 10:34]
+     - State "DONE"       from "TODO"       [2016-06-02 Thu 13:35]
+     - State "DONE"       from "TODO"       [2016-05-09 Mon 12:09]
+     :PROPERTIES:
+     :LAST_REPEAT: [2016-06-30 Thu 10:34]
+     :END:
+
+
+*** read clean code 						       :book:
+**** TODO clean code review                                          :review:
+     SCHEDULED: <2018-01-03 Wed .+1m>
+     :PROPERTIES:
+     :ID:       A4245D1E-045B-4BAC-8677-EE7C05D0D69C
+     :LAST_REPEAT: [2017-12-03 Sun 19:53]
+     :END:
+     - State "DONE"       from "TODO"       [2017-12-03 Sun 19:53]
+     - State "DONE"       from "TODO"       [2017-08-18 Fri 17:15]
+     - State "DONE"       from "TODO"       [2017-06-05 Mon 16:51]
+     - State "DONE"       from "TODO"       [2017-04-24 Mon 17:59]
+     - State "DONE"       from "TODO"       [2017-03-07 Tue 22:21]
+     - State "DONE"       from "TODO"       [2016-10-31 Mon 18:32]
+     - State "DONE"       from "TODO"       [2016-10-05 Wed 11:16]
+     CLOCK: [2016-10-04 Tue 17:37]--[2016-10-05 Wed 11:16] => 17:39
+     :PROPERTIES:
+     :LAST_REPEAT: [2017-08-18 Fri 17:15]
+     :END:
+- watch video 
+- summarize 
+
+
+*** TODO read code complete				       :book:
+    :PROPERTIES:
+    :ID:       BF2CB051-C393-48F9-A6EF-D2BA2158C5FF
+    :END:
+
+
+*** TODO read object oriented thought process			       :book:
+    :PROPERTIES:
+    :ID:       7864DD4C-EE30-4ED5-9480-1EE8E5D9A21E
+    :END:
+    # SCHEDULED: <2016-08-26 Fri .+1w>
+    - State "DONE"       from "TODO"       [2016-08-19 Fri 17:57]
+    CLOCK: [2016-08-19 Fri 16:58]--[2016-08-19 Fri 17:57] =>  0:59
+    - State "DONE"       from "TODO"       [2016-08-08 Mon 01:32]
+    - State "DONE"       from "TODO"       [2016-07-29 Fri 15:55]
+    CLOCK: [2016-07-29 Fri 15:44]--[2016-07-29 Fri 15:55] =>  0:11
+    CLOCK: [2016-07-29 Fri 15:00]--[2016-07-29 Fri 15:14] =>  0:14
+    - State "DONE"       from "TODO"       [2016-07-25 Mon 17:49]
+    CLOCK: [2016-07-25 Mon 16:52]--[2016-07-25 Mon 17:48] =>  0:56
+    - State "DONE"       from "TODO"       [2016-07-22 Fri 00:03]
+    :PROPERTIES:
+    :LAST_REPEAT: [2016-08-19 Fri 17:57]
+    :END:
+
+    
+
+*** PROGRESS  read careercup 150				  :interview:
+    :PROPERTIES:
+    :ID:       25A10DBE-CC74-4F70-A4B9-398675AEFD72
+    :END:
+    - State "PROGRESS"   from "READY"      [2017-02-21 Tue 00:17]
+    - State "COMP"       from "PROGRESS"   [2017-02-21 Tue 00:16]
+    - State "PROGRESS"   from "READY"      [2017-02-21 Tue 00:11]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-02-21 Tue 00:16]
+    :END:
+
+
+*** DONE leetbook
+    SCHEDULED: <2017-11-17 Fri ++3d>
+    - State "DONE"       from "TODO"       [2017-11-15 Wed 17:24]
+    - State "DONE"       from "TODO"       [2017-09-13 Wed 18:01]
+    - State "DONE"       from "TODO"       [2017-06-13 Tue 14:09]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-11-15 Wed 17:24]
+    :END:
+
+
+* WRITING
+** DONE reflection, writing journal
+   SCHEDULED: <2017-08-18 Fri .+3d/5d>
+   - State "DONE"       from "TODO"       [2017-08-15 Tue 17:35]
+   - State "DONE"       from "TODO"       [2017-07-19 Wed 17:25]
+   - State "DONE"       from "TODO"       [2017-06-19 Mon 22:45]
+   - State "DONE"       from "TODO"       [2017-06-11 Sun 21:34]
+   - State "DONE"       from "TODO"       [2017-06-05 Mon 22:06]
+   - State "DONE"       from "TODO"       [2017-05-23 Tue 11:04]
+   - State "DONE"       from "TODO"       [2017-05-20 Sat 11:28]
+   - State "DONE"       from "TODO"       [2017-05-15 Mon 10:00]
+   - State "DONE"       from "TODO"       [2017-05-01 Mon 11:54]
+   - State "DONE"       from "TODO"       [2017-04-18 Tue 10:38]
+   - State "DONE"       from "TODO"       [2017-04-12 Wed 22:59]
+   - State "DONE"       from "TODO"       [2017-04-09 Sun 23:40]
+   - State "DONE"       from "TODO"       [2017-04-04 Tue 11:22]
+   - State "DONE"       from "TODO"       [2017-03-31 Fri 11:03]
+   - State "DONE"       from "TODO"       [2017-03-27 Mon 00:35]
+   - State "DONE"       from "TODO"       [2017-03-19 Sun 23:50]
+   - State "DONE"       from "TODO"       [2017-03-07 Tue 22:26]
+   - State "DONE"       from "TODO"       [2017-02-28 Tue 22:14]
+   - State "DONE"       from "TODO"       [2017-02-20 Mon 22:15]
+   - State "DONE"       from "TODO"       [2017-02-17 Fri 11:18]
+   - State "DONE"       from "TODO"       [2017-02-13 Mon 10:35]
+   - State "DONE"       from "TODO"       [2017-02-09 Thu 21:51]
+   - State "DONE"       from "TODO"       [2017-02-06 Mon 20:55]
+   - State "DONE"       from "TODO"       [2017-02-01 Wed 01:03]
+   - State "DONE"       from "TODO"       [2017-01-29 Sun 21:10]
+   - State "DONE"       from "TODO"       [2017-01-23 Mon 18:08]
+   - State "DONE"       from "TODO"       [2017-01-20 Fri 17:57]
+   - State "DONE"       from "TODO"       [2017-01-17 Tue 18:37]
+   - State "DONE"       from "TODO"       [2017-01-12 Thu 00:49]
+   - State "DONE"       from "TODO"       [2017-01-08 Sun 22:14]
+   - State "DONE"       from "TODO"       [2016-12-30 Fri 21:37]
+   - State "DONE"       from "TODO"       [2016-12-25 Sun 14:44]
+   - State "DONE"       from "TODO"       [2016-12-08 Thu 09:51]
+   - State "DONE"       from "TODO"       [2016-10-25 Tue 19:04]
+   - State "DONE"       from "TODO"       [2016-10-17 Mon 22:52]
+   - State "DONE"       from "TODO"       [2016-10-12 Wed 22:33]
+   - State "DONE"       from "TODO"       [2016-10-07 Fri 17:48]
+   - State "DONE"       from "TODO"       [2016-09-28 Wed 00:26]
+   CLOCK: [2016-09-27 Tue 23:57]--[2016-09-28 Wed 00:26] =>  0:29
+   - State "DONE"       from "PROGRESS"   [2016-09-27 Tue 17:35]
+   - State "DONE"       from "TODO"       [2016-09-15 Thu 01:05]
+   CLOCK: [2016-09-15 Thu 00:57]--[2016-09-15 Thu 01:05] =>  0:08
+   - State "DONE"       from "TODO"       [2016-09-13 Tue 00:01]
+   - State "DONE"       from "TODO"       [2016-09-13 Tue 00:01]
+   CLOCK: [2016-09-12 Mon 22:28]--[2016-09-13 Tue 00:01] =>  1:33
+   - State "DONE"       from "TODO"       [2016-09-07 Wed 00:01]
+   - State "DONE"       from "TODO"       [2016-09-03 Sat 22:39]
+   - State "DONE"       from "TODO"       [2016-09-02 Fri 12:03]
+   - State "DONE"       from "TODO"       [2016-09-02 Fri 12:03]
+   - State "DONE"       from "TODO"       [2016-08-23 Tue 23:46]
+   CLOCK: [2016-08-23 Tue 23:35]--[2016-08-23 Tue 23:46] =>  0:11
+   - State "DONE"       from "TODO"       [2016-08-22 Mon 21:04]
+   CLOCK: [2016-08-22 Mon 20:53]--[2016-08-22 Mon 21:04] =>  0:11
+   - State "DONE"       from "TODO"       [2016-08-21 Sun 22:36]
+   CLOCK: [2016-08-21 Sun 22:24]--[2016-08-21 Sun 22:36] =>  0:12
+   - State "DONE"       from "TODO"       [2016-08-16 Tue 23:30]
+   CLOCK: [2016-08-16 Tue 23:05]--[2016-08-16 Tue 23:30] =>  0:25
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-08-15 Tue 17:35]
+   :STYLE:    habit
+   :END:
+:LAST_REPEAT: [2016-10-07 Fri 17:48]
+- reading past journals
+- writing journals 
+
+
+** TODO writing blog
+   SCHEDULED: <2017-06-18 Sun ++1w>
+   :PROPERTIES:
+   :ID:       6D50FECD-E804-426F-A9A4-BB84B399F332
+   :END:
+   - State "DONE"       from "TODO"       [2017-06-12 Mon 22:17]
+   - State "DONE"       from "TODO"       [2017-05-15 Mon 09:57]
+   - State "DONE"       from "TODO"       [2017-04-10 Mon 00:04]
+   - State "DONE"       from "TODO"       [2017-04-10 Mon 00:04]
+   - Note taken on [2017-04-06 Thu 18:07] \\
+     write book note
+   - State "DONE"       from "TODO"       [2017-04-03 Mon 17:45]
+   - State "DONE"       from "TODO"       [2017-03-23 Thu 11:09]
+   - State "DONE"       from "TODO"       [2017-03-21 Tue 10:55]
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-06-12 Mon 22:17]
+   :END:
+
+
+
+* misc
+** TODO setting up a auto downloading service
+   :PROPERTIES:
+   :ID:       9CBD11BF-905B-4C23-A4F9-991149B02CCE
+   :END:
+
+* leetcode							   :leetcode:
+file:leetcode.org
+** road map
+- for the first round, focus on medium problems 
+- 2 problems each * 16 = 32 
+
+| category         | round 1 (2) | round 2 | round 3 | total |
+|------------------+-------------+---------+---------+-------|
+| array            | X           |         |         |     2 |
+| linked list      | X           |         |         |     2 |
+| hash table       | X           |         |         |     2 |
+| 2 points         | X           |         |         |     2 |
+| binary search    | X           |         |         |     2 |
+| tree             | X           |         |         |     2 |
+| stack            | X           |         |         |     2 |
+| heap             | X           |         |         |     2 |
+| bit              |             |         |         |     0 |
+| graph            |             |         |         |     0 |
+|------------------+-------------+---------+---------+-------|
+| math             |             |         |         |     0 |
+| sort             |             |         |         |     0 |
+| backtracking     |             |         |         |     0 |
+| dp               |             |         |         |     0 |
+| greedy           |             |         |         |     0 |
+| divide & conquer |             |         |         |     0 |
+|                  |             |         |         |     0 |
+|------------------+-------------+---------+---------+-------|
+| Total            |             |         |         |    16 |
+#+TBLFM: $5='( + (if (string= $2 "X") 2 0) (if (string= $3 "X") 1 0) (if (string= $4 "X") 1 0))::@19$5=vsum(@2$5..@18$5)
+
+
+** easy problems	[50%] 					  :interview:
+   CLOSED: [2016-05-19 Thu 09:41]
+- 50 problems in total 
+- do review each week. 
+trainning focus:
+- no compiling error
+*** DONE leetcode 3 problems
+    SCHEDULED: <2016-05-13 Fri>
+    - State "DONE"       from "TODO"       [2016-06-15 Wed 19:23]
+    - State "DONE"       from "TODO"       [2016-05-09 Mon 20:02]
+    - State "DONE"       from "TODO"       [2016-05-05 Thu 19:49]
+    :PROPERTIES:
+    :LAST_REPEAT: [2016-06-15 Wed 19:23]
+    :END:
+
+*** TODO leetcode easy problem review			     :review:
+    DEADLINE: <2017-06-14 Wed ++1w>
+    :PROPERTIES:
+    :ID:       A1CCA517-692B-477A-A2BB-01BA10296CEE
+    :END:
+    - State "DONE"       from "TODO"       [2017-06-12 Mon 23:06]
+    - State "DONE"       from "TODO"       [2016-07-27 Wed 10:59]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-06-12 Mon 23:06]
+    :END:
+
+** medium
+- most important problems 
+- 132 in total. 
+- appro 80 days. 
+*** TODO leetcode 2 problems medium
+    SCHEDULED: <2017-12-05 Tue .+2d>
+    :PROPERTIES:
+    :ID:       56E2F9FC-156B-4D50-A56E-271EECAF9542
+    :LAST_REPEAT: [2017-12-03 Sun 19:53]
+    :END:
+    - State "DONE"       from "TODO"       [2017-12-03 Sun 19:53]
+    - State "DONE"       from "TODO"       [2017-06-30 Fri 15:19]
+    - State "DONE"       from "TODO"       [2017-06-14 Wed 10:14]
+    - State "DONE"       from "TODO"       [2017-06-11 Sun 21:29]
+    - State "DONE"       from "TODO"       [2017-06-08 Thu 18:01]
+    - State "DONE"       from "TODO"       [2017-06-06 Tue 18:20]
+    - State "DONE"       from "TODO"       [2017-02-28 Tue 22:07]
+    - State "DONE"       from "TODO"       [2017-02-28 Tue 00:19]
+    - State "DONE"       from "TODO"       [2016-12-22 Thu 11:34]
+    - State "DONE"       from "TODO"       [2016-10-28 Fri 18:46]
+    - State "DONE"       from "TODO"       [2016-10-27 Thu 18:46]
+    - State "DONE"       from "TODO"       [2016-10-26 Wed 10:22]
+    - State "DONE"       from "TODO"       [2016-10-24 Mon 20:01]
+    - State "DONE"       from "TODO"       [2016-10-18 Tue 18:49]
+    - State "DONE"       from "TODO"       [2016-10-17 Mon 22:48]
+    - State "DONE"       from "TODO"       [2016-10-12 Wed 13:13]
+    - State "DONE"       from "TODO"       [2016-10-11 Tue 18:20]
+    - State "DONE"       from "TODO"       [2016-09-14 Wed 17:58]
+    CLOCK: [2016-09-14 Wed 17:35]--[2016-09-14 Wed 17:58] =>  0:23
+    - State "DONE"       from "TODO"       [2016-08-22 Mon 21:36]
+    - State "DONE"       from "TODO"       [2016-08-10 Wed 22:19]
+    - State "DONE"       from "TODO"       [2016-08-08 Mon 01:33]
+    - State "DONE"       from "TODO"       [2016-08-03 Wed 17:18]
+    - State "DONE"       from "TODO"       [2016-07-22 Fri 11:17]
+    - State "DONE"       from "TODO"       [2016-06-14 Tue 19:01]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-06-30 Fri 15:19]
+    :STYLE:    habit
+    :CUSTOM_ID: lc1
+    :END:      
+
+** TODO leetcode hard problems
+   :PROPERTIES:
+   :ID:       A0E3B201-0386-406F-B315-03994DFF8869
+   :END:
+ 
+** DONE leetcode review					     :review:
+   CLOSED: [2017-06-12 Mon 23:06] SCHEDULED: <2017-06-02 Fri>
+
+
+   
+
+* finance
+** investment							  :investing:
+[[file:invest.org]]
+*** TODO learn market scanner
+    :PROPERTIES:
+    :ID:       F627304F-9CB8-4F82-82DD-A326EF0B45B1
+    :END:
+
+*** TODO investment book note
+    :PROPERTIES:
+    :ID:       4811ABD6-5C4E-4616-90BF-3CEAF9AAF953
+    :END:
+*** TODO IB API use
+    :PROPERTIES:
+    :ID:       F42FFE03-439D-4DA3-B7D6-3641EDAC3B22
+    :END:
+

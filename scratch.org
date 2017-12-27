@@ -1,0 +1,192 @@
+#+TITLE: scratch 
+#+DESCRIPTION: this file is to track miscs 
+#+TODO: TODO | DONE
+#+TODO: READY PROGRESS | COMP
+
+* 长期目标
+** full-stack engineer
+[[file:org.org::*project scratch]]
+
+* 短期目标
+
+* workout
+** DONE writing a workout plan
+   :PROPERTIES:
+   :ID:       6AF8CBE6-2DD3-4468-8A5C-FE11E6AD5EF6
+   :END:
+[[file:workout.org]]
+
+* health
+- going upstairs 3 times a day in office
+
+* career
+** TODO interview preparation
+   :PROPERTIES:
+   :ID:       64E81E42-E2B2-45BA-8183-A451A2FAFD32
+   :END:
+
+
+* emacs learning						 :move:emacs:
+** TODO introduce UML to emacs
+   :PROPERTIES:
+   :ID:       FE917DAC-983A-4B18-BEA4-55EDA82152F5
+   :END:
+- [X] image solution
+- [ ] 
+
+
+** emacs coding snippets
+*** TODO create template for common language
+    :PROPERTIES:
+    :ID:       B60197A8-70FF-4E1E-9E24-7E1A8BA6C952
+    :END:
+
+** emacs shortcut
+** TODO emacs mode cheetsheet
+   :PROPERTIES:
+   :ID:       1B667FCE-86DC-4280-9B80-9D282ABEB36D
+   :END:
+| <11> mode name | <20> link            |
+|----------------+----------------------|
+| helm           |                      |
+| org mode       |                      |
+| magit          |                      |
+
+
+
+
+
+
+
+
+
+
+* self-improvement
+** TODO code refactoring tutorial				   :worktime:
+   :PROPERTIES:
+   :ID:       E167F280-D74C-42BE-87DB-92F7AB5EA639
+   :END:
+   - State "DONE"       from "TODO"       [2017-06-02 Fri 12:21]
+   - State "DONE"       from "TODO"       [2017-05-05 Fri 16:04]
+   - State "DONE"       from "TODO"       [2017-05-01 Mon 11:11]
+   - State "DONE"       from "TODO"       [2017-04-24 Mon 17:45]
+   - State "DONE"       from "TODO"       [2017-04-19 Wed 13:59]
+   - State "DONE"       from "TODO"       [2017-04-13 Thu 17:11]
+   - State "DONE"       from "TODO"       [2017-03-31 Fri 17:54]
+   - State "DONE"       from "PROGRESS"   [2016-09-15 Thu 18:18]
+   - State "DONE"       from "TODO"       [2016-07-22 Fri 16:45]
+   - State "DONE"       from "TODO"       [2016-07-22 Fri 16:45]
+   - State "DONE"       from "TODO"       [2016-07-22 Fri 16:45]
+   - State "DONE"       from "TODO"       [2016-07-22 Fri 16:45]
+   - State "DONE"       from "TODO"       [2016-07-01 Fri 16:19]
+   - State "DONE"       from "TODO"       [2016-06-16 Thu 18:08]
+   - State "DONE"       from "TODO"       [2016-06-09 Thu 18:53]
+   - State "DONE"       from "TODO"       [2016-05-17 Tue 03:50]
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-06-02 Fri 12:21]
+   :END:
+file:refactor.org
+
+
+
+
+
+
+* Productivity
+** TODO find a way to learn more in work
+   :PROPERTIES:
+   :ID:       CC526AE8-6254-4B0F-9073-2F732135BF32
+   :END:
+
+** TODO mouse-less work flow
+   :PROPERTIES:
+   :ID:       6B0539B8-5F3F-483A-8877-475C33B8D3F3
+   :END:
+
+** DONE archive for org mode.
+   :PROPERTIES:
+   :ID:       BA8CF9FF-7306-42FB-B10C-C914F59091BA
+   :END:
+- make a emacs command 
+
+* PET project thoughts						    :project:
+** idea, automate everything.
+- what can be automated during work? 
+- what can be done during daily work 
+- what can be done to help boosting productivity
+- what can be done to help better investment 
+
+** stock tracker.
+- depending on [[file:org.org::investment]]
+
+** a email processor
+- Analyze your email.
+- make it a scheduled task on server 
+
+** DONE 8 cups of water alarm
+   :PROPERTIES:
+   :ID:       8914D891-A4A4-49D6-B602-030E593CD328
+   :END:
+
+** TODO list ORG mode page on web
+   :PROPERTIES:
+   :ID:       EE893380-62BE-4DE8-99F3-D2E6B4C46C44
+   :END:
+*** DONE ORG mode page research
+    DEADLINE: <2017-06-14 Wed>
+
+
+
+
+* INBOX
+
+** TODO things you r interested in.
+   :PROPERTIES:
+   :ID:       74488E7C-9180-4B49-8A42-6193F4335BFE
+   :END:
+** TODO always forget starting pomodora
+   :PROPERTIES:
+   :ID:       9B5A62B5-CA92-459B-8CBD-B4F71F40E4F8
+   :END:
+** TODO learn driving
+   :PROPERTIES:
+   :ID:       10F3920A-B0C5-47EE-966B-3E18EF4317BD
+   :END:
+
+** TODO prepare for new team
+   :PROPERTIES:
+   :ID:       96E4CDF4-6F83-4ECB-8B73-D9CC87C755D5
+   :END:
+
+** DONE try emacs mobile org
+   SCHEDULED: <2017-12-03 Sun>
+- beorg
+
+
+* TEMP
+
+** huichi project scratch
+*** phase 1 notes
+- no angular js routing 
+- old style project structure 
+**** DONE setting up a demo site
+- route to local machine 
+- port forwarding 
+
+**** DONE choose another theme
+- please follow the blue apron !!!
+[[project.org]]
+
+
+
+
+
+* DONE holiday fund
+SCHEDULED: <2017-12-22 Fri>
+[2017-12-21 Thu 17:43]
+
+
+
+* TODO updating ihp
+[2017-12-26 Tue 14:11]
+
